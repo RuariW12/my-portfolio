@@ -1,0 +1,38 @@
+[
+  {
+    "title": "E-Portfolio Website | React",
+    "description": "Designed and developed a responsive personal portfolio using React, showcasing projects, skills and experience in web development, data analytics, and cloud computing.",
+    "tech": ["React", "HTML", "CSS", "JavaScript"],
+    "images": []
+  },
+  {
+    "title": "Product Performance Dashboard | SQL -> PowerBI",
+    "description": "End to end SQL Database to Power BI interactive dashboard using mock company product data. In a SQL server I imported 3 different files, then created a CTE to calculate the total revenue, cost, discounts, and date breakdown. I then joined the sales data with discount data. In PowerBI, I imported the sql database, then created an interactive product dashboard visualizing a variety of statistics.",
+    "tech": ["Excel", "SQL", "PowerBI"],
+    "images": ["/images/bidash.png"]
+  },
+  {
+    "title": "Business Performance Analysis | Excel",
+    "description": "Analyzed AI-generated business datasets using Excel. Cleaned and organized data, created dynamic visualizations, and compiled a detailed insights report summarizing key operational trends.",
+    "tech": ["Excel", "Microsoft Word"],
+    "images": ["/images/exceldata.png", "/images/cbsa.png"]
+  },
+  {
+    "title": "24/7 Cloud Based Discord Music Bot",
+    "description": "Developed a headless 24/7 Discord Music bot on a Linux Mint powered Thinkpad T410. I leveraged AWS S3 for secure music file storage, with automated syncing scripts that check for new uploads and download them locally for playback. Implemented cloud storage access, data handling, and secure file transferring. I also designed a React web interface with a Python Flask backend to allow authenticated users to upload tracks directly to the S3 bucket.",
+    "tech": ["AWS S3", "Python", "Linux Mint", "Bash", "React", "Cloud security"],
+    "images": ["/images/mbox1.png", "/images/mbox2.png"]
+  },
+  {
+    "title": "Kali Linux Exercises",
+    "description": "A series of hands-on cybersecurity exercises using Kali Linux. These activities focus on enhancing penetration testing skills, network security, and ethical hacking techniques through simulations. Exercise specifics can be found on my Github",
+    "tech": ["Kali Linux", "Nmap", "Metasploit", "Wireshark", "Burp Suite", "Linux"],
+    "images": ["logos/kali.png"]
+  },
+  {
+    "title": "Python Web Scraping Exercise",
+    "description": "Introductory project to learn the basics of python web scraping with BeautifulSoup. Utilized books.toscrape.com to practice scraping data such as book title, price, star rating, and availability. Output all findings into a csv file in the same python script." ,
+    "tech": ["Python", "Pandas", "BeautifulSoup"],
+    "images": []
+  }
+]

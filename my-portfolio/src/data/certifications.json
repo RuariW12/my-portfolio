@@ -1,0 +1,26 @@
+[
+  {
+    "title": "AWS Cloud Practitioner | June 2025",
+    "Skills": ["IaaS, PaaS, SaaS", "Core services | EC2, S3, Lambda, etc.", "Architecture design principles", "Shared responsibility model", "Billing, cost optimization", "Cloud Security", "Cloud adoption"]
+  },
+  {
+    "title": "Google Data Analytics Certificate | May 2025",
+    "Skills": ["Data Cleaning", "Exploratory Data Analysis", "SQL", "Data Visualization (Tableau/R)"]
+  },
+  {
+    "title": "AWS Certified Solutions Architect - Associate  | Incomplete, pending",
+    "Skills": [
+    "Designing resilient and high-availability cloud architectures",
+    "Implementing secure applications on AWS",
+    "Cost-optimized infrastructure planning",
+    "Architecting scalable, fault-tolerant systems",
+    "AWS core services: EC2, S3, RDS, VPC, Lambda, IAM",
+    "Cloud security and identity management",
+    "Monitoring and logging (CloudWatch, CloudTrail)",
+    "Disaster recovery and backup strategies",
+    "Infrastructure as Code (CloudFormation basics)",
+    "Hybrid architecture and migration strategies"
+    ]
+  }
+  
+]

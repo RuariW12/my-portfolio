@@ -1,0 +1,21 @@
+.proj-header {
+    padding-bottom: 100px;
+    font-size: 70px;
+    font-weight: 100;
+}
+
+.proj-container {
+    margin: 20vh;
+}
+
+@media (max-width: 768px) {
+    .proj-header {
+        font-size: 40px;
+        padding-bottom: 50px;
+        text-align: center;
+    }
+
+    .proj-container {
+        margin: 10vh 5vw;
+    }
+}

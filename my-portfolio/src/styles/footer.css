@@ -1,0 +1,57 @@
+.contact-footer {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 150px;
+    padding-bottom: 7%;
+}
+
+.left-footer {
+    font-size: 50px;
+}
+
+.right-footer {
+    font-size: 25px;
+}
+
+.email-link {
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.github-link, .linkedin-link {
+    text-decoration: none;
+    color: inherit;
+    padding-right: 15px;
+}
+
+@media (max-width: 768px) {
+  .contact-footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+    padding-top: 100px;
+    padding-bottom: 10%;
+  }
+
+  .left-footer {
+    font-size: 36px;
+  }
+
+  .right-footer {
+    font-size: 18px;
+  }
+
+  .github-link,
+  .email-link {
+    padding: 0.5rem 0;
+    
+  }
+  .github-link {
+    padding-right: 5px;
+  }
+  .linkedin-link {
+    padding-right: 5px;
+  }
+}

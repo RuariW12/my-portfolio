@@ -1,0 +1,124 @@
+.exp-header {
+  margin: 20vh;
+  margin-bottom: 75px;
+  font-size: 70px;
+  font-weight: 100;
+  color: #ffffff;
+}
+
+.experience-section {
+  padding: 3rem 1.5rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.experience-header {
+  font-size: 2.5rem;
+  text-align: center;
+  color: #ffffff;
+  margin: 2rem 0;
+}
+
+.experience-card {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 1rem;
+  padding: 1.75rem;
+  margin-bottom: 2rem;
+  backdrop-filter: blur(10px);
+  margin-left: 150px;
+  max-width: 1700px;
+}
+
+.card-title {
+  margin: 2rem 0; 
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: #ffffff;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 0.5rem;
+}
+
+.card-content {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.card-item {
+  margin-bottom: 1.5rem;
+}
+
+.item-heading {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #e0e0e0;
+}
+
+.item-subheading {
+  font-size: 0.95rem;
+  color: #b0b0b0;
+  margin-top: 0.25rem;
+}
+
+.item-date {
+  font-size: 0.85rem;
+  color: #888888;
+  margin-top: 0.25rem;
+  display: block;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.skill-tag {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  color: #ccc;
+}
+
+
+@media (max-width: 768px) {
+  .exp-header {
+    margin: 10vh 5vw;
+    margin-bottom: 50px;
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .experience-card {
+    margin: 0 auto;
+    width: 90%;
+  }
+
+  .card-title {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .item-heading {
+    font-size: 1rem;
+  }
+
+  .item-subheading {
+    font-size: 0.85rem;
+    text-align: center;
+  }
+
+  .item-date {
+    font-size: 0.75rem;
+    text-align: center;
+  }
+
+  .skills-list {
+    justify-content: center;
+  }
+}

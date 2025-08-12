@@ -1,6 +1,6 @@
 version: 1
 applications:
-  - appRoot: my-portfolio/my-portfolio
+  - appRoot: my-portfolio
     frontend:
       phases:
         preBuild:

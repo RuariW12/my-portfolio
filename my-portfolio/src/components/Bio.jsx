@@ -20,13 +20,11 @@ function Bio() {
         </p>
 
         <p className='bio-para'>
-          &#10148; Hi, I’m Ruari Whalen. I'm a Business Information Technology student at Virginia Tech,
-          concentrating in Decision Support Systems.
+          &#10148; Hi, I’m Ruari Whalen. I'm a Business Information Technology student at Virginia Tech.
         </p>
         <p className='bio-para'>
-          &#10148; I specialize in database management, data analysis, and have a growing focus in cloud
-          architecture and computing. My skill set also includes cybersecurity, full-stack web
-          development, machine learning, and foundational topics in data science.
+          &#10148; I specialize in Cloud Solutions, DevOps, and Data Science. My skill set also includes Cybersecurity, Networking, Full-stack web
+          development, and Machine Learning.
         </p>
         <p className='bio-para'>
           &#10148; I’m passionate about building smart, scalable solutions and am always seeking new

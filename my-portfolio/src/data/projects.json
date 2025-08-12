@@ -1,8 +1,14 @@
 [
   {
     "title": "E-Portfolio Website | React",
-    "description": "Designed and developed a responsive personal portfolio using React, showcasing projects, skills and experience in web development, data analytics, and cloud computing.",
+    "description": "Designed and developed a responsive personal portfolio using React, showcasing projects, skills and experience in web development, data analytics, and cloud computing. Deployed through AWS Amplify",
     "tech": ["React", "HTML", "CSS", "JavaScript"],
+    "images": []
+  },
+  {
+    "title": "Banking System Simulation | Cloud-based Infrastructure",
+    "description": "Working with a team to design and deploy a scaled-down banking system with deposits, withdrawals, account management, and secure user data storage. Simulating real-world transactions in AWS with a React frontend, SQL backend, and RESTful APIs. Leveraging Terraform for Infrastructure as Code (IaC), and applying data analytics to monitor transaction patterns, generate performance dashboards, and identify anomalies. Gaining proficiency in AWS services, database management, and cloud security best practices",
+    "tech": ["AWS", "Terraform", "React", "SQL"],
     "images": []
   },
   {
@@ -24,15 +30,9 @@
     "images": ["/images/mbox1.png", "/images/mbox2.png"]
   },
   {
-    "title": "Kali Linux Exercises",
-    "description": "A series of hands-on cybersecurity exercises using Kali Linux. These activities focus on enhancing penetration testing skills, network security, and ethical hacking techniques through simulations. Exercise specifics can be found on my Github",
-    "tech": ["Kali Linux", "Nmap", "Metasploit", "Wireshark", "Burp Suite", "Linux"],
-    "images": ["logos/kali.png"]
-  },
-  {
-    "title": "Python Web Scraping Exercise",
-    "description": "Introductory project to learn the basics of python web scraping with BeautifulSoup. Utilized books.toscrape.com to practice scraping data such as book title, price, star rating, and availability. Output all findings into a csv file in the same python script." ,
-    "tech": ["Python", "Pandas", "BeautifulSoup"],
+    "title": "Mintpal | Local AI Agent",
+    "description": "Deployed an offline AI assistant using Ollama, OpenWebUI, and the Qwen3 model. Indexed Wikipedia PDFs, Linux/Mint documentation, and other sources in a vector database with a retrieval-augmented generation (RAG) setup for quick, accurate answers. Gained hands-on experience in NLP, machine learning workflows, and AI deployment on local hardware.",
+    "tech": ["Ollama", "qwen3", "Bash", "Docker", "Openwebui"],
     "images": []
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "title": "AWS Cloud Practitioner | June 2025",
+    "title": "AWS Cloud Practitioner | July 2025",
     "Skills": ["IaaS, PaaS, SaaS", "Core services | EC2, S3, Lambda, etc.", "Architecture design principles", "Shared responsibility model", "Billing, cost optimization", "Cloud Security", "Cloud adoption"]
   },
   {
@@ -8,18 +8,30 @@
     "Skills": ["Data Cleaning", "Exploratory Data Analysis", "SQL", "Data Visualization (Tableau/R)"]
   },
   {
-    "title": "AWS Certified Solutions Architect - Associate  | Incomplete, pending",
+    "title": "AWS Certified Solutions Architect - Associate  | Incomplete, Fall 2025 Exam Date",
     "Skills": [
-    "Designing resilient and high-availability cloud architectures",
-    "Implementing secure applications on AWS",
-    "Cost-optimized infrastructure planning",
-    "Architecting scalable, fault-tolerant systems",
-    "AWS core services: EC2, S3, RDS, VPC, Lambda, IAM",
-    "Cloud security and identity management",
-    "Monitoring and logging (CloudWatch, CloudTrail)",
-    "Disaster recovery and backup strategies",
-    "Infrastructure as Code (CloudFormation basics)",
-    "Hybrid architecture and migration strategies"
+      "Designing resilient and high-availability cloud architectures",
+      "Implementing secure applications on AWS",
+      "Cost-optimized infrastructure planning",
+      "Architecting scalable, fault-tolerant systems",
+      "AWS core services: EC2, S3, RDS, VPC, Lambda, IAM",
+      "Cloud security and identity management",
+      "Monitoring and logging (CloudWatch, CloudTrail)",
+      "Disaster recovery and backup strategies",
+      "Infrastructure as Code (CloudFormation basics)",
+      "Hybrid architecture and migration strategies"
+    ]
+  },
+  {
+    "title": "CompTIA: Network+ | Incomplete, Winter 2025/26 Exam Date",
+    "Skills": [
+      "Networking fundamentals and concepts",
+      "Network Architecture and topologies",
+      "IP addressing and subnetting",
+      "Routing and switching basics",
+      "Wireless networking standards",
+      "Network Security Principles",
+      "Troubleshooting wired and wireless networks"
     ]
   }
   
